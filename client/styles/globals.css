@@ -48,14 +48,6 @@ body.dark {
   z-index: 999999999;
 }
 
-/* Adjust styles for mobile view */
-@media screen and (max-width: 480px) {
-  .scrollToTop {
-    right: 15%; /* Adjust this value as needed */
-    bottom: 2%; /* You can also adjust this if needed */
-  }
-}
-
 .scrollToTop:hover {
   background-color: #234567;
   color: #fff;
