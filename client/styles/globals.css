@@ -300,25 +300,22 @@ button {
 }
 
 .container {
-  overflow: hidden;
   max-width: 1200px;
   margin: 0 auto;
 }
 
-/* Apply overflow-x: hidden; */
-/* @media (max-width: 768px) {
+/* Apply overflow: hidden on mobile; */
+@media (max-width: 768px) {
   .container {
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: hidden;
   }
 }
 
 @media (max-width: 500px) {
   .container {
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: hidden;
   }
-} */
+}
 
 /* ================================================== */
 /************************************** Header section */
