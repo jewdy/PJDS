@@ -40,7 +40,7 @@ export default function Profile() {
                 </li>
                 <li className="website">
                 <span className="placeholder"><strong>Website:</strong></span>
-                <span className="info-value"><a href="http://example.com">example.com</a></span>
+                // <span className="info-value"><a href="http://example.com">example.com</a></span>
                 </li>
             </ul>
         </div>
@@ -48,7 +48,7 @@ export default function Profile() {
         <div className="attachments">
           <h3>ATTACHMENTS</h3>
           <ul>
-            <li><a href="https://drive.google.com/file/d/1pUG8YQ7XlSZinJYLMoAKvU_u5sOZyKIW/view?usp=sharing" target="_blank">Resume</a></li>
+            // <li><a href="https://drive.google.com/file/d/1pUG8YQ7XlSZinJYLMoAKvU_u5sOZyKIW/view?usp=sharing" target="_blank">Resume</a></li>
           </ul>
         </div>
         
